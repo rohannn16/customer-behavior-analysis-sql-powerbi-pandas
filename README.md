@@ -1,65 +1,83 @@
-📊 Customer Behavior Analysis
+# 📊 Customer Behavior Analysis
 
 📌 Overview
 
-This project focuses on analyzing customer behavior and sales patterns using a combination of Pandas, SQL, and Power BI. The goal is to extract meaningful business insights and visualize them for better decision-making.
+This project analyzes customer behavior and sales data using Pandas, SQL, and Power BI to generate actionable business insights and interactive dashboards.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools
 
-Python (Pandas) → Data cleaning & preprocessing
-SQL (PostgreSQL) → Data analysis & querying
-Power BI → Dashboard & data visualization
+  * Python (Pandas) – Data cleaning
+  * PostgreSQL – Data analysis
+  * Power BI – Visualization
 
-📂 Dataset Description
 
-The dataset contains customer-level transactional data, including:
+## 📂 Dataset
 
-Customer demographics (gender, age, location)
-Purchase behavior (orders, revenue, frequency)
-Product details and categories
-Discounts, subscription status, and payment methods
-Seasonal sales data
+Customer-level transactional data including:
 
-🔍 Key Analysis Performed
+  * Demographics (age, gender, location)
+  * Orders, revenue, frequency
+  * Product categories
+  * Discounts & subscriptions
+  * Seasonal trends
 
-Customer segmentation (New, Returning, Loyal)
-Revenue analysis by gender, age group, and location
-Subscription vs non-subscription behavior
-Impact of discounts on purchasing
-Seasonal sales trends
-Top products and high-value customers
 
-💡 Key Insights
+## 🔍 Analysis
 
-Business is highly dependent on loyal customers, with strong retention but low new customer growth
-Male customers generate higher revenue, indicating segment imbalance
-Subscription adoption is low, even among repeat buyers
-Sales show seasonal patterns, with peak in Fall and dip in Summer
-Certain products are heavily discount-driven, impacting profitability
+  * Customer segmentation (New, Returning, Loyal)
+  * Revenue by demographics
+  * Subscription behavior
+  * Discount impact
+  * Seasonal trends
+  * Top customers & products
 
-📊 Dashboard
 
-Interactive dashboards were created in Power BI to visualize:
+### 💡 Insights
 
-Sales trends
-Customer segmentation
-Regional performance
-Seasonal insights
+  * High dependency on loyal customers
+  * Low new customer growth
+  * Low subscription adoption
+  * Sales peak in Fall, drop in Summer
+  * Discounts reduce profitability
 
-🚀 Business Recommendations
 
-Improve new customer acquisition strategies
-Convert loyal users into subscribers
-Reduce dependency on heavy discounting
-Target underperforming customer segments
-Optimize marketing based on seasonal trends
+## 📊 Dashboard
 
-📁 Project Structure
-├── data/               # Raw dataset
-├── notebooks/          # Data cleaning (Pandas)
-├── sql/                # SQL queries
-├── dashboard/          # Power BI file
-└── README.md
-🎯 Conclusion
+Power BI dashboard shows:
 
-This project demonstrates how combining data cleaning, querying, and visualization tools can uncover actionable insights to improve customer strategy and business performance.
+  * Sales trends
+  * Customer segments
+  * Regional performance
+
+📸 See Images/ for screenshots
+
+
+### 🚀 Recommendations
+
+  * Improve customer acquisition
+  * Convert users to subscribers
+  * Reduce heavy discounting
+  * Target weak segments
+
+
+## 📁 Project Structure
+
+├── Data/  
+├── Images/  
+├── Customer Behavior Analysis SQL/  
+├── Customer Behavior Cleaning Pandas/  
+├── Customer Behavior Insights/  
+├── Customer Behavior Dashboard Power BI/  
+├── README.md  
+├── LICENSE  
+└── .gitignore
+
+
+### 🎯 Conclusion
+
+Shows end-to-end workflow: clean → analyze → visualize → insight
+
+### 📬 Contact Me
+  * 💼 LinkedIn: (www.linkedin.com/in/rohankumards16)
+  * 🐙 GitHub: ()
+  * 📧 Email: diliprohankumar@gmail.com 
