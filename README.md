@@ -66,22 +66,23 @@ Power BI dashboard shows:
 
 ## 📁 Project Structure
 
-├── Data/  
-├── Images/  
-├── Customer Behavior Analysis SQL/  
-├── Customer Behavior Cleaning Pandas/  
-├── Customer Behavior Insights/  
-├── Customer Behavior Dashboard Power BI/  
-├── README.md  
-├── LICENSE  
-└── .gitignore
-
+├── Data/                                   
+├── Images/                                
+├── Customer Behavior Analysis SQL/         
+├── Customer Behavior Cleaning Pandas/      
+├── Customer Behavior Insights/             
+├── Customer Behavior Dashboard Power BI/   
+├── README.md                               
+├── LICENSE                                 
+└── .gitignore                              
 
 ### 🎯 Conclusion
 
 Shows end-to-end workflow: clean → analyze → visualize → insight
+---
 
 ### 📬 Contact Me
-  * 💼 ![LinkedIn](www.linkedin.com/in/rohankumards16)
-  * 🐙 ![GitHub](https://github.com/rohannn16?tab=repositories)
+
+  * 💼 [LinkedIn](www.linkedin.com/in/rohankumards16)
+  * 🐙 [GitHub](https://github.com/rohannn16?tab=repositories)
   * 📧 Email: diliprohankumar@gmail.com 
