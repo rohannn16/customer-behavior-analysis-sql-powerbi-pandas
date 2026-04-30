@@ -51,9 +51,9 @@ Power BI dashboard shows:
 
 📸 Dashboard
 
-(https://github.com/rohannn16/customer-behavior-analysis-sql-powerbi-pandas/blob/main/Images/Dashboard%20Image%20PowerBI.png)
+![Dashboard](https://github.com/rohannn16/customer-behavior-analysis-sql-powerbi-pandas/blob/main/Images/Dashboard%20Image%20PowerBI.png)
 
-(https://github.com/rohannn16/customer-behavior-analysis-sql-powerbi-pandas/blob/main/Images/Full%20Image%20of%20Dashboard%20PowerBI.png)
+![Dashboard](https://github.com/rohannn16/customer-behavior-analysis-sql-powerbi-pandas/blob/main/Images/Full%20Image%20of%20Dashboard%20PowerBI.png)
 
 
 ### 🚀 Recommendations
