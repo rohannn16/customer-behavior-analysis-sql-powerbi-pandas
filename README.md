@@ -66,16 +66,35 @@ Power BI dashboard shows:
 
 ## 📁 Project Structure
 
-├── Data/                                   
-├── Images/                                
-├── Customer Behavior Analysis SQL/         
-├── Customer Behavior Cleaning Pandas/      
-├── Customer Behavior Insights/             
-├── Customer Behavior Dashboard Power BI/   
-├── README.md                               
-├── LICENSE                                 
-└── .gitignore                              
-
+```customer-behavior-analysis/
+│
+├── Customer Behavior Analysis SQL/
+│   └── customer_behavior_sql.sql
+│
+├── Customer Behavior Cleaning Pandas/
+│   ├── customer_shopping_behavior.ipynb
+│   └── .ipynb_checkpoints/
+│
+├── Customer Behavior Insights/
+│   └── Key Insights.pptx
+│
+├── Customer Behavior Dashboard PowerBI/
+│   └── customer_behavior_powerBI.pbix
+│
+├── Data/
+│   └── customer_shopping_behavior.csv
+│
+├── Images/
+│   ├── Dashboard Image PowerBI.png
+│   ├── Data Image Excel.png
+│   ├── Full Image of Dashboard PowerBI.png
+│   ├── Query Image SQL.png
+│   └── cleaning Image Pandas.png
+│
+├── .gitignore
+├── LICENSE
+└── README.md                          
+```
 ### 🎯 Conclusion
 
 Shows end-to-end workflow: clean → analyze → visualize → insight
